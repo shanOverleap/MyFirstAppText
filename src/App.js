@@ -10,7 +10,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
        
-        How to Learn React
+         Learn React
         
       </header>
     </div>
